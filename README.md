@@ -1,6 +1,7 @@
 # MCAFT: Multi-scale Convolutional Attention Frequency-enhanced Transformer Network for Medical Image Segmentation
 
 *Figure 1: Overview of the MCAFT architecture.*  
+
 ![R_model](https://github.com/user-attachments/assets/efc3e44d-bc93-4990-8f72-7eb466bc2909)
 
 ## 📌 Overview
