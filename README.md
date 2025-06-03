@@ -4,9 +4,7 @@
 ![R_model](https://github.com/user-attachments/assets/efc3e44d-bc93-4990-8f72-7eb466bc2909)
 
 ## 📌 Overview
-MCAFT is an advanced transformer-based network designed for medical image segmentation, addressing limitations in existing methods such as insufficient local feature extraction and loss of high-frequency details. By integrating **wavelet transform** with **multi-scale convolutional attention**, MCAFT achieves superior performance in preserving edge and texture information while capturing global context.
-
-[Multi-scale Convolutional Attention Frequency-enhanced Transformer Network for Medical Image Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000922?via%3Dihub)
+[MCAFT](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000922?via%3Dihub) is an advanced transformer-based network designed for medical image segmentation, addressing limitations in existing methods such as insufficient local feature extraction and loss of high-frequency details. By integrating **wavelet transform** with **multi-scale convolutional attention**, MCAFT achieves superior performance in preserving edge and texture information while capturing global context.
 
 ---
 
